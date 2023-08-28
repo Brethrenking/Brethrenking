@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Brethrenking
 - 👀 I’m interested in web developing 
-- 🌱 I’m currently learning at the college 
+- 🌱 I’m currently working on client website 
 - 💞️ I’m looking to collaborate on special codes 
 - 📫 How to reach me email nashilongojoseph6@gmail.com 
 
